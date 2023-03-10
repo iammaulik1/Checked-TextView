@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">CheckedTextView</string>
+    <string name="msg_shown">Checked TextView is : </string>
+    <string name="checked">checked</string>
+    <string name="unchecked">unchecked</string>
+    <string name="checkedTextView">CheckedTextView</string>
+</resources>
